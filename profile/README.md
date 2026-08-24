@@ -27,9 +27,9 @@ Nindar connects startups, scale-ups and growing technology teams with specialist
 
 💼 LinkedIn: [Add Nindar LinkedIn URL]
 
-𝕏 X: [Add Nindar X URL]
+𝕏 : [[Add Nindar X URL](https://x.com/nindarglobal)]
 
-✈️ Telegram: [Add Nindar Telegram URL]
+✈️ Telegram: [[Add Nindar Telegram URL](https://t.me/NindarConsulting)]
 
 ---
 
