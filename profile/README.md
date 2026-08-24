@@ -1,76 +1,123 @@
-
 <div align="center">
 
-<img src="https://github.com/nindarconsulting.png" alt="Nindar Consulting Logo" width="150">
+<img src="https://github.com/nindarconsulting.png" alt="Nindar Consulting Logo" width="135">
 
 # Nindar Consulting
 
 ### Cross-Border IT, AI & Web3 Talent Partner
 
-**Vetted specialist talent. Global reach. Ready to build.**
+**Specialist talent for companies building what’s next.**
 
 <br>
 
 <a href="https://www.nindar.com/">
-  <img src="https://img.shields.io/badge/WEBSITE-FF8800?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Nindar Website">
+  <img src="https://img.shields.io/badge/VISIT%20NINDAR-FF8800?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/company/nindar/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:nindarconsulting@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/EMAIL%20US-FF8800?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-</div>
+<br><br>
 
----
-
-## About Nindar
-
-**Nindar Consulting** is a cross-border talent partner helping startups, scale-ups and growing technology companies access vetted specialist talent across **IT, AI, engineering, blockchain and Web3**.
-
-We source talent across **China, Vietnam and Europe** for growing teams in global technology markets.
-
-**Specialist focus. Technical screening. Global reach.**
-
----
-
-## Our Tech Focus
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI%20%26%20ML-FF8800?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/WEB3-111111?style=for-the-badge&logo=web3dotjs&logoColor=white">
-<img src="https://img.shields.io/badge/BLOCKCHAIN-FF8800?style=for-the-badge&logo=ethereum&logoColor=white">
-<img src="https://img.shields.io/badge/ENGINEERING-111111?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/DEVOPS-FF8800?style=for-the-badge&logo=docker&logoColor=white">
+**IT &nbsp;•&nbsp; AI &nbsp;•&nbsp; WEB3 &nbsp;•&nbsp; ENGINEERING &nbsp;•&nbsp; GLOBAL TALENT**
 
 </div>
 
-<br>
+---
 
-| Specialisation | Talent We Support |
-| --- | --- |
-| **AI & Machine Learning** | AI/ML Engineers, Data Scientists, LLM Engineers, MLOps Engineers |
-| **Blockchain & Web3** | Blockchain Engineers, Smart Contract Developers, Solidity Engineers, Web3/DeFi Developers |
-| **Engineering** | Frontend, Backend, Full-Stack, QA and Data Engineers |
-| **DevOps & SRE** | DevOps Engineers, Site Reliability and Infrastructure specialists |
-| **FinTech & DeFi** | Payments, Quant, Core Banking, Risk and Compliance talent |
-| **Product & Design** | Product Managers, UX/UI Designers, Product Analysts and UX Researchers |
+## 🚀 Building Great Technology Starts With the Right People
+
+Technology moves fast.
+
+Finding the specialist talent capable of building it can be harder.
+
+**Nindar Consulting** helps startups, scale-ups and growing technology companies connect with vetted professionals across **IT, AI, engineering, blockchain and Web3**.
+
+We help businesses look beyond local hiring markets and access specialist talent across global technology hubs.
+
+> **Our focus:** specialist expertise, technical relevance and access to a wider global talent market.
 
 ---
 
-## What We Do
+## ⚡ Nindar at a Glance
 
 <table>
 <tr>
+
+<td align="center" width="25%">
+
+### ⏱️ 48 HRS
+**First curated shortlist**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌏 3 HUBS
+**China · Vietnam · Europe**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛡️ 90 DAYS
+**Placement guarantee**
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻 IT · AI · WEB3
+**Specialist focus**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 💡 Where We Focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20%26%20MACHINE%20LEARNING-FF8800?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/WEB3-111111?style=for-the-badge&logo=web3dotjs&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/BLOCKCHAIN-111111?style=for-the-badge&logo=ethereum&logoColor=white">
+<img src="https://img.shields.io/badge/BACKEND%20ENGINEERING-FF8800?style=for-the-badge&logo=serverfault&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/DEVOPS%20%26%20SRE-FF8800?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/DATA%20ENGINEERING-111111?style=for-the-badge&logo=databricks&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/FINTECH%20%26%20DEFI-111111?style=for-the-badge&logo=bitcoin&logoColor=white">
+<img src="https://img.shields.io/badge/PRODUCT%20%26%20DESIGN-FF8800?style=for-the-badge&logo=figma&logoColor=white">
+
+</div>
+
+---
+
+## 🧩 What We Do
+
+<table>
+<tr>
+
 <td width="50%" valign="top">
 
 ### 🔎 Specialist Recruitment
 
-Success-based recruitment for specialist **IT, AI and Web3 roles**.
+Access hard-to-find professionals across **IT, AI, engineering, blockchain and Web3**.
 
-We source, screen and shortlist talent aligned with your technical requirements and company needs.
+We source, screen and shortlist talent aligned with your technical requirements.
 
 </td>
 
@@ -78,17 +125,21 @@ We source, screen and shortlist talent aligned with your technical requirements 
 
 ### 👤 Executive Search
 
-Senior and leadership search for companies hiring roles such as **CTOs, VPs and founding engineers**.
+Search support for senior technical and business leadership.
+
+From **CTOs and VPs** to highly specialised senior hires.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### ⚙️ RPO
+### ⚙️ Recruitment Process Outsourcing
 
-Embedded **Recruitment Process Outsourcing** support for companies that need additional hiring capacity without building a larger internal recruitment team.
+Flexible recruitment support for teams that need additional hiring capacity without expanding their internal recruitment function.
 
 </td>
 
@@ -96,134 +147,185 @@ Embedded **Recruitment Process Outsourcing** support for companies that need add
 
 ### 📊 Talent Mapping
 
-Market intelligence covering talent availability, competitor landscapes and compensation insights across target regions.
+Understand the market before you hire.
+
+Talent availability, competitor landscapes and compensation insights across target regions.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## Why Nindar
+## 🧠 The Talent We Help Companies Find
+
+### AI & Machine Learning
+
+`AI/ML Engineers` &nbsp; `LLM Engineers` &nbsp; `MLOps Engineers` &nbsp; `Data Scientists`
+
+### Blockchain & Web3
+
+`Blockchain Engineers` &nbsp; `Smart Contract Developers` &nbsp; `Solidity Engineers` &nbsp; `Web3 Developers` &nbsp; `DeFi Talent`
+
+### Engineering
+
+`Backend Engineers` &nbsp; `Frontend Engineers` &nbsp; `Full-Stack Engineers` &nbsp; `QA Engineers` &nbsp; `Data Engineers`
+
+### Infrastructure
+
+`DevOps Engineers` &nbsp; `Site Reliability Engineers` &nbsp; `Cloud Engineers` &nbsp; `Infrastructure Specialists`
+
+### Product & Growth
+
+`Product Managers` &nbsp; `UX/UI Designers` &nbsp; `Growth Marketers` &nbsp; `Account Executives` &nbsp; `SDRs`
+
+---
+
+## 🌍 Talent Without Borders
 
 <table>
 <tr>
-<td align="center" width="25%">
 
-### 48 hrs
-**First curated shortlist**
+<td align="center" width="33%">
 
-</td>
-<td align="center" width="25%">
+### 🇨🇳 China
 
-### 3 Hubs
-**China · Vietnam · Europe**
+**AI · ML · Engineering**
+
+Access specialist technical professionals across rapidly evolving technology markets.
 
 </td>
-<td align="center" width="25%">
 
-### 90 Days
-**Placement guarantee**
+<td align="center" width="33%">
 
-</td>
-<td align="center" width="25%">
+### 🇻🇳 Vietnam
 
-### IT · AI · Web3
-**Specialist focus**
+**Software · Blockchain · Web3**
+
+Connect with strong engineering and development talent.
 
 </td>
+
+<td align="center" width="33%">
+
+### 🇪🇺 Europe
+
+**Senior Engineering · Web3**
+
+Expand your search for experienced specialist and senior technical talent.
+
+</td>
+
 </tr>
 </table>
 
----
+<div align="center">
 
-## Talent Across Global Markets
+### Your best candidate may not be in your local market.
 
-🌏 **China** — AI, ML & Full-Stack Engineering  
-🌏 **Vietnam** — Software & Blockchain Development  
-🌍 **Europe** — Senior Engineering & Web3 Talent
+**That’s why we search globally.**
 
-We help businesses expand their search beyond local talent markets and connect with the specialist expertise required to **build, scale and innovate**.
+</div>
 
 ---
 
-## Roles We Recruit
+## 🔥 Why Specialist Talent Matters
 
-**AI / ML**
+The more advanced the technology becomes, the more specialised the people behind it need to be.
 
-`AI/ML Engineers` `Data Scientists` `LLM Engineers` `MLOps Engineers`
+For growing tech companies, one difficult-to-fill role can affect:
 
-**Blockchain / Web3**
+**Product delivery**  
+↓  
+**Engineering capacity**  
+↓  
+**Speed to market**  
+↓  
+**Business growth**
 
-`Blockchain Engineers` `Smart Contract Developers` `Solidity Engineers` `Web3 Developers` `DeFi Talent`
-
-**Engineering**
-
-`Frontend Engineers` `Backend Engineers` `Full-Stack Engineers` `DevOps` `SRE` `QA Engineers` `Data Engineers`
-
-**Product / Business**
-
-`Product Managers` `UX/UI Designers` `Account Executives` `Growth Marketers` `SDRs`
+Nindar helps businesses widen their search and connect with specialists who can support the next stage of growth.
 
 ---
 
-## Connect With Nindar
+## 🤝 Who We Work With
 
-<p>
-🌐 &nbsp;<strong>Website: <a href="https://www.nindar.com/">https://www.nindar.com/</a></strong>
-</p>
+<div align="center">
 
-<p>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="20" height="20" align="center">
-&nbsp;<strong>LinkedIn: <a href="https://www.linkedin.com/company/nindar/">https://www.linkedin.com/company/nindar/</a></strong>
-</p>
+<img src="https://img.shields.io/badge/STARTUPS-111111?style=flat-square">
+<img src="https://img.shields.io/badge/SCALE--UPS-FF8800?style=flat-square">
+<img src="https://img.shields.io/badge/TECH%20COMPANIES-111111?style=flat-square">
+<img src="https://img.shields.io/badge/WEB3%20TEAMS-FF8800?style=flat-square">
+<img src="https://img.shields.io/badge/AI%20COMPANIES-111111?style=flat-square">
+<img src="https://img.shields.io/badge/FOUNDERS-FF8800?style=flat-square">
+<img src="https://img.shields.io/badge/CTOs-111111?style=flat-square">
+<img src="https://img.shields.io/badge/TALENT%20LEADERS-FF8800?style=flat-square">
 
-<p>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="20" height="20" align="center">
-&nbsp;<strong>X: <a href="https://x.com/nindarglobal">https://x.com/nindarglobal</a></strong>
-</p>
+</div>
 
-<p>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="20" height="20" align="center">
-&nbsp;<strong>Instagram: <a href="https://www.instagram.com/nindarconsulting/">https://www.instagram.com/nindarconsulting/</a></strong>
-</p>
+---
 
-<p>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" width="20" height="20" align="center">
-&nbsp;<strong>Facebook: <a href="https://www.facebook.com/nindarconsulting/">https://www.facebook.com/nindarconsulting/</a></strong>
-</p>
+## 🔗 Connect With Nindar
 
-<p>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" width="20" height="20" align="center">
-&nbsp;<strong>Discord: <a href="https://discord.gg/DH2unpgCB">https://discord.gg/DH2unpgCB</a></strong>
-</p>
+<div align="center">
 
-<p>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" width="20" height="20" align="center">
-&nbsp;<strong>Telegram: <a href="https://t.me/NindarConsulting">https://t.me/NindarConsulting</a></strong>
-</p>
+<a href="https://www.nindar.com/">
+<img src="https://img.shields.io/badge/Website-FF8800?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
-<p>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="20" height="20" align="center">
-&nbsp;<strong>Email: <a href="mailto:nindarconsulting@gmail.com">nindarconsulting@gmail.com</a></strong>
-</p>
+<a href="https://www.linkedin.com/company/nindar/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://x.com/nindarglobal">
+<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+<br>
+
+<a href="https://www.instagram.com/nindarconsulting/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.facebook.com/nindarconsulting/">
+<img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+<a href="https://discord.gg/DH2unpgCB">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+<br>
+
+<a href="https://t.me/NindarConsulting">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+<a href="mailto:nindarconsulting@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-## Ready to Build Your Team?
+# Looking for Specialist Tech Talent?
 
-**Access specialist IT, AI & Web3 talent across global markets.**
+### Build beyond borders.
+
+**IT • AI • Engineering • Blockchain • Web3**
+
+<br>
 
 <a href="https://www.nindar.com/">
-  <img src="https://img.shields.io/badge/TALK%20TO%20NINDAR-FF8800?style=for-the-badge&logoColor=white" alt="Talk to Nindar">
+<img src="https://img.shields.io/badge/TALK%20TO%20NINDAR%20%E2%86%92-FF8800?style=for-the-badge&logoColor=white">
 </a>
 
 <br><br>
 
-**IT &nbsp;•&nbsp; AI &nbsp;•&nbsp; WEB3 &nbsp;•&nbsp; GLOBAL TALENT**
+**Nindar Consulting**
 
+*Cross-Border IT, AI & Web3 Talent Partner*
 </div>
-```
-
