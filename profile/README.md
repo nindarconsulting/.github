@@ -160,68 +160,109 @@ Talent availability, competitor landscapes and compensation insights across targ
 
 ## 🧠 The Talent We Help Companies Find
 
-### AI & Machine Learning
-
-`AI/ML Engineers` &nbsp; `LLM Engineers` &nbsp; `MLOps Engineers` &nbsp; `Data Scientists`
-
-### Blockchain & Web3
-
-`Blockchain Engineers` &nbsp; `Smart Contract Developers` &nbsp; `Solidity Engineers` &nbsp; `Web3 Developers` &nbsp; `DeFi Talent`
-
-### Engineering
-
-`Backend Engineers` &nbsp; `Frontend Engineers` &nbsp; `Full-Stack Engineers` &nbsp; `QA Engineers` &nbsp; `Data Engineers`
-
-### Infrastructure
-
-`DevOps Engineers` &nbsp; `Site Reliability Engineers` &nbsp; `Cloud Engineers` &nbsp; `Infrastructure Specialists`
-
-### Product & Growth
-
-`Product Managers` &nbsp; `UX/UI Designers` &nbsp; `Growth Marketers` &nbsp; `Account Executives` &nbsp; `SDRs`
-
----
-
-## 🌍 Talent Without Borders
-
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td align="center" width="33%">
+### 🤖 AI & Machine Learning
 
-### 🇨🇳 China
+<img src="https://img.shields.io/badge/AI%2FML%20Engineers-FF8800?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/LLM%20Engineers-111111?style=for-the-badge&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/MLOps%20Engineers-FF8800?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Data%20Scientists-111111?style=flat-square&logoColor=white">
 
-**AI · ML · Engineering**
+<br><br>
 
-Access specialist technical professionals across rapidly evolving technology markets.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🇻🇳 Vietnam
-
-**Software · Blockchain · Web3**
-
-Connect with strong engineering and development talent.
+Specialist talent for intelligent systems, machine learning, LLMs and scalable AI products.
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### 🇪🇺 Europe
+### ⛓️ Blockchain & Web3
 
-**Senior Engineering · Web3**
+<img src="https://img.shields.io/badge/Blockchain%20Engineers-111111?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Smart%20Contract%20Developers-FF8800?style=for-the-badge&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Solidity%20Engineers-111111?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Web3%20Developers-FF8800?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/DeFi%20Talent-111111?style=flat-square&logoColor=white">
 
-Expand your search for experienced specialist and senior technical talent.
+<br><br>
+
+Technical professionals for blockchain products, protocols and decentralised ecosystems.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Engineering
+
+<img src="https://img.shields.io/badge/Backend%20Engineers-FF8800?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Frontend%20Engineers-111111?style=for-the-badge&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Full--Stack%20Engineers-FF8800?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/QA%20Engineers-111111?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Data%20Engineers-FF8800?style=flat-square&logoColor=white">
+
+<br><br>
+
+Core engineering talent for building robust, scalable and user-focused technology products.
 
 </td>
 
+<td width="50%" valign="top">
+
+### ☁️ Infrastructure
+
+<img src="https://img.shields.io/badge/DevOps%20Engineers-111111?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Site%20Reliability%20Engineers-FF8800?style=for-the-badge&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Cloud%20Engineers-111111?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Infrastructure%20Specialists-FF8800?style=flat-square&logoColor=white">
+
+<br><br>
+
+Infrastructure, cloud and reliability specialists for high-performance technical environments.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Product & Growth
+
+<img src="https://img.shields.io/badge/Product%20Managers-FF8800?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/UX%2FUI%20Designers-111111?style=for-the-badge&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Growth%20Marketers-FF8800?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Account%20Executives-111111?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/SDRs-FF8800?style=flat-square&logoColor=white">
+
+<br><br>
+
+Product, design and commercial talent that supports growth, customer experience and execution.
+
+</td>
+
+<td width="50%" valign="top">
+
+
+### 🌍 Why It Matters
+
+The best specialist talent is not always easy to find locally.
+
+Nindar helps growing companies access the expertise they need across **IT, AI, Engineering, Blockchain and Web3**.
+
+</td>
 </tr>
 </table>
 
-<div align="center">
-
+---
 ### Your best candidate may not be in your local market.
 
 **That’s why we search globally.**
